@@ -1,0 +1,23 @@
+{
+  "name": "02-challenge",
+  "version": "1.0.0",
+  "description": "To build a note taker to make it easier for anyone to use",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YonisHussein/hordor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YonisHussein/hordor/issues"
+  },
+  "homepage": "https://github.com/YonisHussein/hordor#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
